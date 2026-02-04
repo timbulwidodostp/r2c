@@ -1,0 +1,4 @@
+D 'r2c': Computes several goodness of fit measures for count data models Use r2c With STATA 19
+D
+F r2c.ado
+F r2c.sthlp
