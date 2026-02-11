@@ -1,6 +1,8 @@
 # r2c
 Computes several goodness of fit measures for count data models Use r2c With STATA 19
 
+https://www.youtube.com/watch?v=LfgIAYk8zHM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
